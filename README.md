@@ -82,9 +82,8 @@ HTML · CSS · JavaScript · PHP · Angular · Node.js · MySQL · MongoDB
 ## 📫 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/tuinstagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="mailto:geanhuaman.dev@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/ffffff/email.png" alt="email" height="30" width="40"/></a>
+  <a href="www.linkedin.com/in/gean-huaman-solis-879688279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:gehuso3.0v@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/ffffff/email.png" alt="email" height="30" width="40"/></a>
 </p>
 
 ---
