@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Gean Huamán</h1>
+<h1 align="center">Hola 👋, soy Gean Huaman</h1>
 
 <p align="center">
   Desarrollador de Software Jr. 🎓 | Junior Web Developer (Freelance) 💻<br>
