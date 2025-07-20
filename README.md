@@ -69,19 +69,19 @@ HTML · CSS · JavaScript · PHP · Angular · Node.js · MySQL · MongoDB
 ## 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geanhuaman&show_icons=true&theme=dark&locale=es&layout=compact" alt="top-langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeanHuamanSolis&show_icons=true&theme=dark&locale=es&layout=compact" alt="top-langs" />
 </p>
 
 <br><br><br><br><br><br><br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geanhuaman&show_icons=true&theme=dark&locale=es" alt="stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GeanHuamanSolis&show_icons=true&theme=dark&locale=es" alt="stats" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=geanhuaman&theme=dark" alt="streak" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GeanHuamanSolis&theme=dark" alt="streak" />
 </p>
 
 ---
